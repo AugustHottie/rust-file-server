@@ -26,3 +26,6 @@ A simple and efficient file server built with Rust.
 
 3. Run the server:
 `cargo run --release`
+
+4. To access the files (assuming you cloned, built, and ran locally):
+   `localhost:8080`
